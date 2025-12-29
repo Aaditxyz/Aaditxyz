@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi 👋 I'm Aditya Raj
 
-<!--
-**Aaditxyz/Aaditxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech VLSI Student (2024–2028)  
+🏫 Noida Institute of Engineering and Technology (NIET)
 
-Here are some ideas to get you started:
+💡 Skills
+- C, Python
+- Verilog HDL
+- Arduino & Sensor Interfacing
+- Digital Electronics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects
+- Arduino Smoke Detection System
+- Electronic Voting Machine (Verilog – In Progress)
+
+📫 Contact
+- Email: adityarajmail2005.1@gmail.com
