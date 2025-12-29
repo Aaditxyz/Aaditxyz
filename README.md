@@ -15,3 +15,9 @@ Hi 👋 I'm Aditya Raj
 
 📫 Contact
 - Email: adityarajmail2005.1@gmail.com
+
+- 
+- 📌 Featured Projects:
+- Smoke Detection Circuit (Breadboard Based)
+- Electronic Voting Machine (Arduino Based)
+
