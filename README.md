@@ -11,7 +11,6 @@ Hi 👋 I'm Aditya Raj
 
 🚀 Projects
 - Arduino Smoke Detection System
-- Electronic Voting Machine (Verilog – In Progress)
 
 📫 Contact
 - Email: adityarajmail2005.1@gmail.com
@@ -19,7 +18,7 @@ Hi 👋 I'm Aditya Raj
 - 
 - 📌 Featured Projects:
 - Smoke Detection Circuit (Breadboard Based)
-- Electronic Voting Machine (Arduino Based)
+  
 
 
 
